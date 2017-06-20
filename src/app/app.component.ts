@@ -1,3 +1,4 @@
+/*'Bootstrap and JQuery Exerscise'*/
 import { Component } from '@angular/core';
 
 @Component({
@@ -17,7 +18,7 @@ import { Component } from '@angular/core';
   </div>
 </div>
 `,
-styleUrls: ['./app.component.css']
+  styleUrls: ['./app.component.css']
 })
 export class AppComponent {
   title = 'Bootstrap and JQuery Exerscise';
